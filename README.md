@@ -44,7 +44,7 @@ O conjunto de dados utilizado é o **USA_Housing.csv**, que contém as seguintes
 ### No Google Colab
 
 1. Clique no botão abaixo para abrir o notebook no Google Colab:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XZtg6Swi6ulJ0Ht4mcURq7tJHBfJ0Bts?usp=sharing)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GNCN7ysFocyd9eTHnTW3GUFs_OOLq9R5?usp=sharing)
 
 2. Faça uma cópia do notebook na sua conta do Google Drive.
 3. Execute as células na ordem para reproduzir os resultados.
