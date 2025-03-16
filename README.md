@@ -1,8 +1,6 @@
-# regressao_linear
-Case de estudo do curso DNC
 # Projeto de Regressão Linear para Previsão de Preços de Imóveis
 
-Este projeto tem como objetivo prever o preço de imóveis nos Estados Unidos com base em características como renda média da área, idade média da casa, número de quartos, número de banheiros e população da área. O modelo de regressão linear foi implementado utilizando a biblioteca `scikit-learn` em Python.
+Este projeto tem como objetivo prever o preço de imóveis nos Estados Unidos com base em características como renda média da área, idade média da casa, número de quartos, número de banheiros e população da área. O modelo de regressão linear foi implementado utilizando a biblioteca `scikit-learn` em Python. **Case de estudo do curso DNC**
 
 ## Dataset
 
